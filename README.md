@@ -67,9 +67,8 @@ The system communicates using the following UUIDs:
 
 ---
 
-## 📸 App Screenshot
 
 
 
-![Mobile App Dashboard](docs/app_screenshot.jpeg)
+
 
