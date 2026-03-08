@@ -71,5 +71,5 @@ The system communicates using the following UUIDs:
 
 
 
-![Mobile App Dashboard](docs/app_screenshot.png)
+![Mobile App Dashboard](docs/app_screenshot.jpeg)
 
